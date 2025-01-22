@@ -1,4 +1,4 @@
-// ContactList by Carter Techel
+
 public class Person {
     // Instance Variables
     private String firstName;
